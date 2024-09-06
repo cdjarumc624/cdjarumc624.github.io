@@ -1,7 +1,7 @@
 # Site
-name: "ingganinggra"
-title: "ingganinggra"
-description: "There are no gardening mistakes, only experiments"
+name: "cdjarumc624"
+title: "cdjarumc624"
+description: "Green Spaces, Happier Faces"
 logo: '/favicon.ico'
 favicon: '/favicon.ico'
 baseurl: /
@@ -48,7 +48,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 7
+paginate: 10
 paginate_path: /page:num/
     
 # Other
